@@ -22,18 +22,23 @@ theme:
       primary: lime
       accent: teal
       toggle: 
-        icon: material/toggle-switch 
+        icon: material/brightness-4 
         name: Modo Escuro
     - scheme: slate
       primary: lime
       accent: teal
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/brightness-7 
         name: Modo Claro
   font:
     text: Roboto
     code: Roboto Mono
+  icon:
+    repo: octicons/git-compare-24
 
+repo_name: seplagmg-parcerias/SCPTS-raiz
+repo_url: https://github.com/seplagmg-parcerias/SCPTS-raiz
+edit_uri: edit/main/docs/
 
 
  
