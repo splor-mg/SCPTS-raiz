@@ -1,4 +1,4 @@
-# **Organização da Sociedade Civil de Interesse Público - Oscip**
+# **Oscip**
 
 
 ## **Modelo Oscip - O que é?**

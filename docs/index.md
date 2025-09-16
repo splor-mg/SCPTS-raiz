@@ -1,4 +1,4 @@
-# **Oscips e Organizações Sociais**
+# **Início**
 
 
 A execução de políticas públicas em parceria com [**Organizações da Sociedade Civil de Interesse Público - Oscip's**](http://www.planejamento.mg.gov.br/pagina/planejamento-e-orcamento/parcerias-com-oscip/oscip) e [**Organizações Sociais – OS**](http://www.planejamento.mg.gov.br/pagina/gestao-governamental/parcerias-com-os/organizacoes-sociais-os) é uma iniciativa que busca melhorar os produtos e serviços oferecidos à sociedade, garantindo eficiência à gestão dos recursos públicos. Com o objetivo de aproximar cada vez mais Governo e Sociedade, as parcerias firmadas proporcionam a institucionalização da ação governamental articulada com entidades do Terceiro Setor.

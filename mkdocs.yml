@@ -15,8 +15,12 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.progress
-    - navigation.sections
     - navigation.path
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
   palette:
     - scheme: default
       primary: lime

@@ -1,4 +1,4 @@
-# **Organizações Sociais - OS**
+# **OS**
 
 
 ## **Modelo OS – O que é?**
