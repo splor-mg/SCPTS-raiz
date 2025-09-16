@@ -3,7 +3,7 @@
 
 ## **Modelo Oscip - O que é?**
 
-É um modelo de contratualização por resultados implementado de maneira pioneira no Estado de Minas Gerais, com o objetivo de aproximar cada vez mais Governo e Sociedade a partir de parcerias entre a administração pública estadual e entidades sem fins lucrativos qualificadas como Organização da Sociedade Civil de Interesse Público - Oscip.
+É um modelo de contratualização por resultados implementado de maneira pioneira no Estado de Minas Gerais, com o objetivo de aproximar cada vez mais Governo e Sociedade a partir de parcerias entre a administração pública estadual e entidades sem fins lucrativos qualificadas como **Organização da Sociedade Civil de Interesse Público - Oscip**.
 
 As parcerias celebradas com as Oscips caracterizam-se como uma proposta de fomento ao Terceiro Setor e de execução de atividades de interesse público de forma flexível e dinâmica, assim como são uma excelente ferramenta jurídica e de gestão a fim de propiciar à sociedade serviços públicos prestados com eficiência, eficácia e efetividade.
 
