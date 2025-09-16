@@ -40,5 +40,8 @@ repo_name: seplagmg-parcerias/SCPTS-raiz
 repo_url: https://github.com/seplagmg-parcerias/SCPTS-raiz
 edit_uri: edit/main/docs/
 
-
+extra_css:
+  - assets/style.css
+extra_javascript:
+  - assets/style.js
  
