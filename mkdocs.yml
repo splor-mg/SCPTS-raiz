@@ -8,16 +8,17 @@ nav:
   - Oscip: oscip/index.md
   - OS: os/index.md
   - Capacitações:
-    - capacitações/index.md
-    - Aula 01: capacitações/aula_01/aula_01.md
-    - Aula 02: capacitações/aula_02/aula_02.md
-    - Aula 03: capacitações/aula_03/aula_03.md
-    - Aula 04: capacitações/aula_04/aula_04.md
-    - Aula 05: capacitações/aula_05/aula_05.md
-    - Aula 06: capacitações/aula_06/aula_06.md
-    - Aula 07: capacitações/aula_07/aula_07.md
-    - Aula 08: capacitações/aula_08/aula_08.md
-    - Aula 09: capacitações/aula_09/aula_09.md
+    - Seleções Públicas: capacitações/index.md
+    - Aulas:
+      - Aula 01: capacitações/aula_01/aula_01.md
+      - Aula 02: capacitações/aula_02/aula_02.md
+      - Aula 03: capacitações/aula_03/aula_03.md
+      - Aula 04: capacitações/aula_04/aula_04.md
+      - Aula 05: capacitações/aula_05/aula_05.md
+      - Aula 06: capacitações/aula_06/aula_06.md
+      - Aula 07: capacitações/aula_07/aula_07.md
+      - Aula 08: capacitações/aula_08/aula_08.md
+      - Aula 09: capacitações/aula_09/aula_09.md
   - Outros Documentos: outrosdocs/index.md
 
 # Configuration

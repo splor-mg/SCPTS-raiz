@@ -4,7 +4,7 @@ Damos boas vindas à capacitação sobre **Seleções Públicas** para parcerias
 
 ## **Início da Jornada**
 
-![Capa](https://blush.design/api/download?shareUri=4Rv55JRAwt5y-h07&c=Hair_0%7E711515-0.6%7E0f0f0f_Skin_0%7E7d4439-0.6%7E7d4439&bg=bed10d&w=800&h=800&fm=png)
+![Capa](../assets/capa_curso.png)
 
 - ### *Porque esse curso é relevante?*
 
@@ -15,16 +15,16 @@ Esse curso é para você que:
 
 <div class="grid" markdown>
 
-:man_raising_hand_tone1: Está envolvido com a **celebração de termos de parceria ou contratos de gestão**.
+:white_check_mark: Está envolvido com a **celebração de termos de parceria ou contratos de gestão**.
 { .card }
 
-:man_raising_hand: É novato, ou até mesmo experiente, com **projetos de parceria entre o governo e entidades do terceiro setor**.
+:white_check_mark: É novato, ou até mesmo experiente, com **projetos de parceria entre o governo e entidades do terceiro setor**.
 { .card }
 
-:woman_raising_hand_tone4: Quer **organizar** o processo de seleção pública de parceiros de forma mais **qualificada e eficiente**.
+:white_check_mark: Quer **organizar** o processo de seleção pública de parceiros de forma mais **qualificada e eficiente**.
 { .card }
 
-:person_raising_hand_tone2: Precisa **orientar e colaborar** com outras pessoas ou equipes técnicas neste processo.
+:white_check_mark: Precisa **orientar e colaborar** com outras pessoas ou equipes técnicas neste processo.
 { .card }
 
 </div>
