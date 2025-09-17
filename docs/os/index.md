@@ -1,9 +1,9 @@
-# **OS**
+# **Organizações Sociais - OS**
 
 
 ## **Modelo OS – O que é?**
 
-O Modelo OS é uma alternativa para execução de políticas públicas em parceria com **Organizações Sociais - OS** por meio da celebração do Contrato de Gestão. Em Minas Gerais, o Modelo OS foi instituído por meio da Lei Estadual nº 23.081, de 10 de agosto de 2018 e é regulamentado pelo Decreto Estadual nº 47.553, de 07 de dezembro de 2018.
+O Modelo OS é uma alternativa para execução de políticas públicas em parceria com Organizações Sociais - OS por meio da celebração do Contrato de Gestão. Em Minas Gerais, o Modelo OS foi instituído por meio da Lei Estadual nº 23.081, de 10 de agosto de 2018 e é regulamentado pelo Decreto Estadual nº 47.553, de 07 de dezembro de 2018.
 
 Organização Social é um título concedido pelo poder público às entidades privadas sem fins lucrativos que o pleitearem. No Governo do Estado de Minas Gerais, a Superintendência Central de Parcerias com o Terceiro Setor da Secretaria de Estado de Planejamento e Gestão - Seplag é o setor responsável por analisar a documentação e verificar a adequação aos requisitos exigidos pela norma. Para a entidade sem fins lucrativos celebrar Contrato de Gestão com o Poder Público ela deve ser previamente qualificada como OS.
 

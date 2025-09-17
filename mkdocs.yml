@@ -1,13 +1,26 @@
+# Project information
 site_name: Oscips e OS
 site_url: https://seplagmg-parcerias.github.io/SCPTS-raiz/
 
+# Page tree
 nav:
-  - index.md
-  - oscip/index.md
-  - os/index.md
-  - capacitações/index.md
-  - outrosdocs/index.md
+  - Início: index.md
+  - Oscip: oscip/index.md
+  - OS: os/index.md
+  - Capacitações:
+    - capacitações/index.md
+    - Aula 01: capacitações/aula_01/aula_01.md
+    - Aula 02: capacitações/aula_02/aula_02.md
+    - Aula 03: capacitações/aula_03/aula_03.md
+    - Aula 04: capacitações/aula_04/aula_04.md
+    - Aula 05: capacitações/aula_05/aula_05.md
+    - Aula 06: capacitações/aula_06/aula_06.md
+    - Aula 07: capacitações/aula_07/aula_07.md
+    - Aula 08: capacitações/aula_08/aula_08.md
+    - Aula 09: capacitações/aula_09/aula_09.md
+  - Outros Documentos: outrosdocs/index.md
 
+# Configuration
 theme:
   name: material
   language: pt-BR
@@ -16,11 +29,8 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.path
-    - navigation.top
     - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.expand
+    - navigation.top
   palette:
     - scheme: default
       primary: lime
@@ -39,13 +49,41 @@ theme:
     code: Roboto Mono
   icon:
     repo: octicons/git-compare-24
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
 
+# Repository
 repo_name: seplagmg-parcerias/SCPTS-raiz
 repo_url: https://github.com/seplagmg-parcerias/SCPTS-raiz
 edit_uri: edit/main/docs/
 
+# Additional configuration
 extra_css:
   - assets/style.css
 extra_javascript:
   - assets/style.js
- 
+
+# Extensions
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.blocks.caption
