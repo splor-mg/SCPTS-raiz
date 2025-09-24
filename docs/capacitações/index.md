@@ -45,7 +45,7 @@ Você só precisa de cerca de 1 hora por aula para concluir cada etapa. Ou seja:
 ## **Comece agora:**
 Não há pré-requisitos, você só precisa disposição para apreender!
 
-[Começar agora](aula_01/aula_01.md){ .md-button .md-button--primary }
+[Começar Agora!](aula_01/aula_01.md){ .md-button .md-button--primary }
 
 ##**Dúvidas e Comentários:**
 
