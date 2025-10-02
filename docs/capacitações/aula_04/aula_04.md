@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # AULA 04
 
 ## 🎥 Vídeo 4.1 – Instrumento Jurídico do Processo de Seleção (parte I)
@@ -17,3 +21,7 @@ Neste vídeo vamos dar continuidade ao vídeo anterior e apresentar a segunda pa
 Baixe o material da aula [aqui](edital_de_selecao_publica_edital_2.pdf).
 
 [Próxima Aula](../aula_05/aula_05.md){ .md-button .md-button--primary }
+
+##**Dúvidas e Comentários:**
+
+Deixe aqui suas dúvidas e comentários sobre esta aula.
