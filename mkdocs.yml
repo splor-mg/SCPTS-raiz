@@ -76,6 +76,7 @@ extra_css:
 extra_javascript:
   - assets/style.js
 
+
 # Extensions
 markdown_extensions:
   - attr_list
