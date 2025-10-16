@@ -1,16 +1,29 @@
-// Target external links blank
-var all_links = document.querySelectorAll('a');
-for (var i = 0; i < all_links.length; i++){
-     var a = all_links[i];
-     var href = a.getAttribute('href');
+// assets/style.js
 
-     // Links externos
-     if(a.hostname != location.hostname && a.parentElement.id != 'download-button') {
-            a.target = '_blank';
-     }
+function setTargetBlank() {
+  const all_links = document.querySelectorAll('a[href]');
+  for (let i = 0; i < all_links.length; i++) {
+    const a = all_links[i];
+    const href = a.getAttribute('href');
 
-     // Links para PDFs (internos ou externos)
-     if(href && href.toLowerCase().endsWith('.pdf')) {
-        a.target = '_blank';
-     }
+    if (!href) continue;
+
+    // Links externos
+    if (a.hostname !== location.hostname && a.parentElement.id !== 'download-button') {
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+    }
+
+    // Links para documentos (PDF, Word, Excel, PowerPoint)
+    if (href.match(/\.(pdf|docx?|xlsx?|pptx?)$/i)) {
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+    }
+  }
 }
+
+// Executa ao carregar o site
+document.addEventListener('DOMContentLoaded', setTargetBlank);
+
+// Executa também após trocas de página via navigation.instant
+document.addEventListener('DOMContentSwitch', setTargetBlank);
