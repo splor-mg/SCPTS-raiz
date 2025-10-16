@@ -50,13 +50,13 @@ Esse curso é para você que:
 
 Ao final deste curso, você será capaz de:
 
-- 💡 Compreender o marco legal que regula as parcerias com Oscips e OSs em Minas Gerais, com destaque para a Lei Estadual nº 23.081/2018 e sua regulametação.
+- 💡 Compreender o marco legal que regula as parcerias com Oscips e OSs em Minas Gerais, com destaque para a Lei Estadual nº 23.081/2018 e regulametos.
 
 - 💡 Apontar a viabilidade da celebração de parcerias como forma de execução de políticas públicas, identificando riscos e oportunidades.
 
 - 💡 Planejar e realizar todas as fases de um processo de seleção pública, desde a elaboração até a convocação da entidade vencedora.
 
-- 💡 Utilizar o SEI (Sistema Eletrônico de Informações) como ferramenta de tramitação processual.
+- 💡 Utilizar o SEI (Sistema Eletrônico de Informações) como ferramenta de tramitação processual neste caso.
 
 - 💡 Elaborar o edital de seleção pública com base no modelo SEPLAG, definindo corretamente objeto, valor, vigência, condições de participação, prazos, recursos, etc.; além de construir anexos fundamentais como termo de referência, critérios de avaliação de propostas, programa de trabalho e demais documentos obrigatórios.
 
