@@ -22,4 +22,6 @@ Baixe o material da aula [aqui](seleção_pública_termo_de_referência.pdf).
 
 ##**Dúvidas e Comentários:**
 
-Deixe aqui suas dúvidas e comentários sobre esta aula.
+Deixe abaixo suas dúvidas e comentários sobre esta aula.
+
+:fontawesome-solid-exclamation-triangle: Você precisará de uma conta no [:material-github:GitHub](https://github.com/) :fontawesome-solid-exclamation-triangle:

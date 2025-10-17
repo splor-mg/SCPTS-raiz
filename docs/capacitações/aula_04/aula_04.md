@@ -24,4 +24,6 @@ Baixe o material da aula [aqui](edital_de_selecao_publica_edital_2.pdf).
 
 ##**Dúvidas e Comentários:**
 
-Deixe aqui suas dúvidas e comentários sobre esta aula.
+Deixe abaixo suas dúvidas e comentários sobre esta aula.
+
+:fontawesome-solid-exclamation-triangle: Você precisará de uma conta no [:material-github:GitHub](https://github.com/) :fontawesome-solid-exclamation-triangle:
