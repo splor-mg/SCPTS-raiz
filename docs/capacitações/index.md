@@ -1,7 +1,3 @@
----
-comments: true
----
-
 # ***Seleções Públicas para celebração de Parcerias***
 
 Damos boas vindas à capacitação sobre **Seleções Públicas** para parcerias com o terceiro setor!
