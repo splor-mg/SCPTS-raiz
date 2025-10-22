@@ -4,24 +4,22 @@ comments: true
 
 # AULA 05
 
-## 🎥 Vídeo 6 – Termo de referência 
+## 🎥 Vídeo 5 – Termo de referência 
 
-- ### Porque esse tema é relevante?
+Neste vídeo, vamos apresentar o Termo de Referência, Anexo I do modelo de edital disponibilizado pela Seplag.
 
-*O Termo de Referência (TR) é uma ferramenta essencial para a seleção pública e, por consequência, para a formalização de parcerias. O TR detalha todos os requisitos do serviço/atividade a ser parcerizado, comunicando, de forma objetiva, a sua estrutura, desde a descrição da política pública da qual este serviço é parte, passando pela contextualização da atividade de interesse, até o planejamento da execução, incluindo seu monitoramento e avaliação, as suas diretrizes físico-financeiras e a justificativa sobre a vantajosidade deste modelo. Ele garante transparência e eficiência na gestão de recursos, visando o interesse público e a qualificação do serviço prestado.*
+<iframe width="560" height="315" src="substituirpelolinkdoyoutube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Neste vídeo, vamos apresentar o Termo de Referência, anexo I do modelo de edital disponibilizado pela Seplag.
+##**Documentos:**
 
-*vídeo - em gravação a ser disponibilizado no YouTube*
+:fontawesome-solid-file-download: Acesse e baixe o material da aula [aqui](seleção_pública_termo_de_referência.pdf) :material-arrow-expand-left:
 
-
-Baixe o material da aula [aqui](seleção_pública_termo_de_referência.pdf).
-
-
-[Próxima Aula](../aula_06/aula_06.md){ .md-button .md-button--primary }
 
 ##**Dúvidas e Comentários:**
 
-Deixe abaixo suas dúvidas e comentários sobre esta aula.
+Deixe seus comentários (dúvidas, elogios, reclamações, etc.), sobre esta aula, logo abaixo!
 
 :fontawesome-solid-exclamation-triangle: Você precisará de uma conta no [:material-github:GitHub](https://github.com/) :fontawesome-solid-exclamation-triangle:
+
+
+[Próxima Aula](../aula_06/aula_06.md){ .md-button .md-button--primary }
