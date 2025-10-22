@@ -17,7 +17,7 @@ Acesse  o conjunto de informações sobre termos de parceria e contratos de gest
 
 
  
-## **Legislação:**
+## **Legislação**
 
 As metodologias e procedimentos de elaboração, monitoramento e avaliação dos Termos de Parceria e Contratos de Gestão no Estado de Minas Gerais são definidos pela seguinte legislação:
 
