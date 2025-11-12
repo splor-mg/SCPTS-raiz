@@ -32,7 +32,7 @@ theme:
     - navigation.top
   palette:
     - scheme: default
-      primary: lime
+      primary: teal
       accent: teal
       toggle: 
         icon: material/brightness-4 
