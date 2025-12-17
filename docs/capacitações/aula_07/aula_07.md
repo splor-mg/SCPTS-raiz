@@ -61,6 +61,9 @@ Neste vídeo, continuaremos a apresentar a Minuta do Termo de Parceria e do Cont
 :fontawesome-solid-file-download: Acesse e baixe o material da aula [aqui](selecao_publica_programadetrabalho.pdf) :material-arrow-expand-left:
 
 
+!!! tip "Quer saber mais sobre a Memória de Cálculo?"
+
+    Clique [aqui](../memoriadecalculo.md) e saiba mais sobre o que é, como construir e analisar a memória de cálculo do termo de parceria ou contrato de gestão.
 
 ##**Dúvidas e Comentários**
 
