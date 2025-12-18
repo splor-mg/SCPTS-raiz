@@ -71,6 +71,8 @@ O curso é dividido em 9 aulas de conteúdo com:
 
 Você só precisa de cerca de 1 hora por aula para concluir cada etapa. Ou seja: com um pouquinho de dedicação, é possível finalizar o curso rapidamente.
 
+## **Nos avalie!**
+Ao final do curso, não deixe de avaliá-lo! É só clicar [aqui](Formulário de Avaliação/form_aval.md)
 
 ## **Comece agora**
 Não há pré-requisitos, você só precisa disposição para apreender!
