@@ -22,4 +22,4 @@ Deixe seus comentários (dúvidas, elogios, reclamações, etc.), sobre esta aul
 :fontawesome-solid-exclamation-triangle: Você precisará de uma conta no [:material-github:GitHub](https://github.com/) :fontawesome-solid-exclamation-triangle:
 
 
-[Nos avalie](../Formulário de Avaliação/form_aval.md){ .md-button .md-button--primary }
+[Nos avalie](../Pesquisa de Satisfação/form_aval.md){ .md-button .md-button--primary }
