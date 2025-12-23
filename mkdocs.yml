@@ -65,8 +65,8 @@ theme:
       quote: octicons/quote-16
 
 # Repository
-repo_name: seplagmg-parcerias/SCPTS-raiz
-repo_url: https://github.com/seplagmg-parcerias/SCPTS-raiz
+repo_name: splor-mg/SCPTS-raiz
+repo_url: https://github.com/splor-mg/SCPTS-raiz
 edit_uri: edit/main/docs/
 
 # Additional configuration

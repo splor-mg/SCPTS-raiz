@@ -4,61 +4,61 @@ A Memória de Cálculo - MC, elaborada pela OS ou OCIP em conjunto com o OEP, em
 Nos vídeos abaixo, você poderá entender mais sobre o modelo de Memória de Cálculo, da sua construção à sua análise! 
 
 
-## 🎥 Vídeo Memória de Cálculo - Parte 1
+## 🎥 Vídeo MC - Aula 1 - Capa, Assinatura e Cronograma
 
 
 <iframe width="560" height="315" src="substituirpelolinkdoyoutube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## 🎥 Vídeo Memória de Cálculo - Parte 2
+## 🎥 Vídeo MC - Aula 2 - Sintético
 
 
 <iframe width="560" height="315" src="substituirpelolinkdoyoutube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## 🎥 Vídeo Memória de Cálculo - Parte 3
+## 🎥 Vídeo MC - Aula 3 - Analítico
 
 
 <iframe width="560" height="315" src="substituirpelolinkdoyoutube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## 🎥 Vídeo Memória de Cálculo - Parte 4
+## 🎥 Vídeo MC - Aula 4 - Atividades
 
 
 <iframe width="560" height="315" src="substituirpelolinkdoyoutube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## 🎥 Vídeo Memória de Cálculo - Parte 5
+## 🎥 Vídeo MC - Aula 5 - Pessoal
 
 
 <iframe width="560" height="315" src="substituirpelolinkdoyoutube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## 🎥 Vídeo Memória de Cálculo - Parte 6
+## 🎥 Vídeo MC - Aula 6 - Bens
 
 
 <iframe width="560" height="315" src="substituirpelolinkdoyoutube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## 🎥 Vídeo Memória de Cálculo - Parte 7
+## 🎥 Vídeo MC - Aula 7 - Gastos Gerais
 
 
 <iframe width="560" height="315" src="substituirpelolinkdoyoutube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## 🎥 Vídeo Memória de Cálculo - Parte 8
+## 🎥 Vídeo MC - Aula 8 - Desmobilização
 
 
 <iframe width="560" height="315" src="substituirpelolinkdoyoutube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## 🎥 Vídeo Memória de Cálculo - Parte 9
+## 🎥 Vídeo MC - Aula 9 - Rateio
 
 
 <iframe width="560" height="315" src="substituirpelolinkdoyoutube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## 🎥 Vídeo Memória de Cálculo - Parte 10
+## 🎥 Vídeo MC - Aula 10 - Como Analisar
 
 
 <iframe width="560" height="315" src="substituirpelolinkdoyoutube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
